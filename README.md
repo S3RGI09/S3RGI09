@@ -5,6 +5,7 @@
 
 💤 I learned to program one day when I was 10 years old **because I was bored**, from then on, I developed a **great passion** for cybersecurity and I usually program in my free time for **FreeBSD**, **OffSec (Kali)** and **ZapProxy** or on my **personal projects**.
 
+🕵️‍♂️ Offer various services dedicated to IT that you can see on my website
 
 🌐 You can learn more about me on my website: [s3rgi09.github.io](https://s3rgi09.github.io/)
 
