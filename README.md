@@ -6,3 +6,5 @@
 💤 I learned to program one day when I was 10 years old **because I was bored**, from then on, I developed a **great passion** for cybersecurity and I usually program in my free time.
 
 🌐 You can learn more about me on my website: [s3rgi09.github.io](https://s3rgi09.github.io/)
+
+📨 You can contact me via Telegram: [@s3r_gx0](https://t.me/s3r_gx0)
