@@ -1,10 +1,11 @@
+# S3RGI09
+
 <p align="center">
   <img src="typing_text.svg" width="500px">
   <br>
   <img src="triangle.svg" width="32px">
 </p>
 
-# S3RGI09
 👋 Hi, i’m **Sergio**, a cybersecurity enthusiast with a passion for programming.
 
 ❤️ I love **programming** and **cybersecurity**, everything I know I **learned on my own**, and it is something I am proud of, as I have developed a great **ability** to learn new things every day.
