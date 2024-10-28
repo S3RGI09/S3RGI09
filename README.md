@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="typing_text.svg" width="500px">
+  <br>
+  <img src="triangle.svg" width="32px">
+</p>
 # S3RGI09
 👋 Hi, i’m **Sergio**, a cybersecurity enthusiast with a passion for programming.
 
