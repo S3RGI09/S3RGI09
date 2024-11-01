@@ -16,5 +16,6 @@
 
 🌐 You can learn more about me on my website: [s3rgi09.github.io](https://s3rgi09.github.io/)
 
-📨 You can contact me via e-mail or Telegram: [@s3r_gx0](https://t.me/s3r_gx0)
-[s3rgi09@iname.com](mailto://s3rgi09.iname.com)
+📨 You can contact me via: 
+Telegram: [@s3r_gx0](https://t.me/s3r_gx0)
+E-mail: [s3rgi09@iname.com](mailto://s3rgi09.iname.com)
