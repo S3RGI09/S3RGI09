@@ -10,7 +10,7 @@
 
 ❤️ I love **programming** and **cybersecurity**, everything I know I **learned on my own**, and it is something I am proud of, as I have developed a great **ability** to learn new things every day.
 
-💤 I learned to program one day when I was 10 years old **because I was bored**, from then on, I developed a **great passion** for cybersecurity and I usually program in my free time for **FreeBSD**, **OffSec (Kali)** and **Nmap Project** or on my **personal projects**.
+💤 I learned to program one day when I was 10 years old **because I was bored**, from then on, I developed a **great passion** for cybersecurity and I usually program in my free time for **FreeBSD**, **Debian** and **Nmap Project** or on my **personal projects**.
 
 🕵️‍♂️ Offer various services dedicated to IT that you can see on my website
 
