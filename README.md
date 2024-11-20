@@ -1,4 +1,8 @@
-# S3RGI09
+<p align="center">
+  <img src="s3rgi09.png" width="500px">
+</p>
+
+# 
 
 <p align="center">
   <img src="typing_text.svg" width="500px">
