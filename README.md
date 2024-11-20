@@ -16,7 +16,7 @@
 
 💤 I learned to program one day when I was 10 years old **because I was bored**, from then on, I developed a **great passion** for cybersecurity and I usually program in my free time for **FreeBSD**, **Debian** and **Nmap Project** or on my **personal projects**.
 
-🇪🇸 I'm live in **Spain**
+🇪🇸 I'm from **Spain**
 
 🕵️‍♂️ Offer various services dedicated to IT that you can see on my website
 
