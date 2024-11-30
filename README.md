@@ -20,7 +20,7 @@
 
 🕵️‍♂️ Offer various services dedicated to IT that you can see on [my website](https://s3rgi09.github.io/services)
 
-🚀 CEO [CyberForecast®](https://cyberforecast.pages.dev/#features)
+🚀 CEO [CyberForecast®](https://cyberforecast.pages.dev/)
 
 🌐 You can learn more about me on my website: [s3rgi09.github.io](https://s3rgi09.github.io/)
 
