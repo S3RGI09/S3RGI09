@@ -20,8 +20,6 @@
 
 🕵️‍♂️ Offer various services dedicated to IT that you can see on [my website](https://s3rgi09.github.io/services)
 
-🚀 Founder of [CyberForecast™](https://cyberforecast.pages.dev/)
-
 🌐 You can learn more about me on my website: [s3rgi09.github.io](https://s3rgi09.github.io/)
 
 📨 You can contact me via: 
