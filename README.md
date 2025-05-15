@@ -25,3 +25,5 @@
 📨 You can contact me via: 
 
 E-mail: [s3rgi09@iname.com](mailto://s3rgi09.iname.com) (Without PGP)
+
+[![s3rgi09 github stats](https://github-readme-stats.vercel.app/api?username=s3rgi09&count_private=true&show_icons=true&title_color=ff0000&icon_color=cc0000&text_color=ff4d4d&bg_color=000000)](https://github.com/s3rgi09)
